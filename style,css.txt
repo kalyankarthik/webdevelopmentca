@@ -1,0 +1,22 @@
+body{
+margin:0;
+padding:0;
+background:url(couple-travel.jpg) no-repeat;
+background-size:cover;
+height:120vh;
+background-position:center;
+font-family:sans-serif;
+}
+ 
+ .signup box{
+ width:340px;
+ height:370px;
+ background:rgba(2, 0, 2, 0.6);
+ color:#fff;
+ position:absolute;
+ top:50%;
+ left:20%;
+ transform:translate(-50%,-50%);
+ box-sizing:border-box;
+ padding:30px 80px;
+ }
